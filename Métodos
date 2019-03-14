@@ -1,0 +1,14 @@
+Métodos - Orientação a Objeto
+
+Tipo nome (parâmetros){
+
+    instruções;
+
+    Retorno(opcional)
+}
+
+int soma(int a, int b){
+
+    int r=a+b;
+    return r;
+}
